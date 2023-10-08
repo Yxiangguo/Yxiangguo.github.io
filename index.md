@@ -7,4 +7,4 @@ Hello 大家好
 - [知乎](https://www.zhihu.com/people/AJLoveChina)
 - [我的博客(已经不更细了,现在在知乎写文章)](http://hejie.nigeerhuo.com)
 
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Yxiangguo/count.svg)
